@@ -1,2 +1,2 @@
 <h1>discord login 2019 html</h1>
-<a href="kwoami.github.io">view</a>
+<a href="https://kwoami.github.io/discord-login-2019-html/">view</a>
